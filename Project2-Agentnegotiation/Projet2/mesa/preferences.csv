@@ -1,0 +1,21 @@
+﻿agent;Item;ItemName;ItemDescription;CriterionName;CriterionValue
+0;diesel_engine;Diesel Engine;A super cool diesel engine;PRODUCTION_COST;VERY_GOOD
+0;diesel_engine;Diesel Engine;A super cool diesel engine;CONSUMPTION;BAD
+0;diesel_engine;Diesel Engine;A super cool diesel engine;DURABILITY;VERY_GOOD
+0;diesel_engine;Diesel Engine;A super cool diesel engine;ENVIRONMENT_IMPACT;VERY_BAD
+0;diesel_engine;Diesel Engine;A super cool diesel engine;NOISE;VERY_BAD
+0;electric_engine;Electric Engine;A very quiet engine;PRODUCTION_COST;BAD
+0;electric_engine;Electric Engine;A very quiet engine;CONSUMPTION;VERY_GOOD
+0;electric_engine;Electric Engine;A very quiet engine;DURABILITY;GOOD
+0;electric_engine;Electric Engine;A very quiet engine;ENVIRONMENT_IMPACT;VERY_GOOD
+0;electric_engine;Electric Engine;A very quiet engine;NOISE;VERY_GOOD
+1;diesel_engine;Diesel Engine;A super cool diesel engine;PRODUCTION_COST;VERY_GOOD
+1;diesel_engine;Diesel Engine;A super cool diesel engine;CONSUMPTION;BAD
+1;diesel_engine;Diesel Engine;A super cool diesel engine;DURABILITY;VERY_GOOD
+1;diesel_engine;Diesel Engine;A super cool diesel engine;ENVIRONMENT_IMPACT;VERY_BAD
+1;diesel_engine;Diesel Engine;A super cool diesel engine;NOISE;VERY_BAD
+1;electric_engine;Electric Engine;A very quiet engine;PRODUCTION_COST;BAD
+1;electric_engine;Electric Engine;A very quiet engine;CONSUMPTION;VERY_GOOD
+1;electric_engine;Electric Engine;A very quiet engine;DURABILITY;GOOD
+1;electric_engine;Electric Engine;A very quiet engine;ENVIRONMENT_IMPACT;VERY_GOOD
+1;electric_engine;Electric Engine;A very quiet engine;NOISE;VERY_GOOD
